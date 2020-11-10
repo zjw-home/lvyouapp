@@ -1,0 +1,11 @@
+Vue框架旅游app
+基本前端配置
+数据暂时用json
+包括基本axiso使用
+swiper, 
+better-scroll,
+vuex,
+keep-alive
+媒体查询，
+等组件
+适合初学者研究
